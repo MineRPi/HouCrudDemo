@@ -8,7 +8,7 @@ Homework
 
 配合mysql验证，项目环境的mysql配置如下图，更换上自己的mysql信息即可：
 
-![image-20200613155331437](img_folder/image-20200613155331437.png)
+![Image text](https://github.com/MineRPi/HouCrudDemo/blob/master/img_folder/1.png)
 
 注意：apache配置虚拟主机，使其根目录到项目的public中。
 
